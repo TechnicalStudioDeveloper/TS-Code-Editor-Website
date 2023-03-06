@@ -1,8 +1,6 @@
 ---
 sidebar_position: 1
 ---
-
-## Storage Permission.
 ### Why do we need storage permission?
 Storage permission is necessary for reading and writing projects and data related to the projects.
 
