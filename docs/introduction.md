@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+id: Introduction
 ---
 ## TS Code Editor
 
