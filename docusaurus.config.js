@@ -58,7 +58,7 @@ const config = {
 				title: 'TS Code Editor',
 				logo: {
 					alt: 'Logo',
-					src: 'img/logo.jpg',
+					src: 'img/logo.png',
 				},
 				items: [
 					{
