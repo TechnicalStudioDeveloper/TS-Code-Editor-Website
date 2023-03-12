@@ -38,7 +38,7 @@
  					sidebarPath: require.resolve('./sidebars.js'),
  					// Please change this to your repo.
  					// Remove this to remove the "edit this page" links.
- 					editUrl: 'https://github.com/TechnicalStudioDeveloper/TS-Code-Editor-Website',
+ 					editUrl: 'https://github.com/TechnicalStudioDeveloper/TS-Code-Editor-Website/tree/dev/',
  					/*lastVersion: 'current',
  					versions: {
  						current: {
@@ -51,7 +51,7 @@
  					showReadingTime: true,
  					// Please change this to your repo.
  					// Remove this to remove the "edit this page" links.
-  					editUrl: 'https://github.com/TechnicalStudioDeveloper/TS-Code-Editor-Website',
+  					editUrl: 'https://github.com/TechnicalStudioDeveloper/TS-Code-Editor-Website/tree/dev/',
  				},
  				theme: {
  					customCss: require.resolve('./src/css/custom.css')
